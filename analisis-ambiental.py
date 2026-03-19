@@ -1,5 +1,8 @@
 # Análisis simple de huella de carbono
 
+#Esta es una modificación al archivo, para que se vea más personalizado
+#Fecha: 19/03/2026
+
 # Función para calcular la huella de carbono basada en el consumo energético
 def calcular_huella_carbono(consumo_energia_kwh):
     # Promedio de CO2 emitido por kWh de electricidad (valor aproximado)
